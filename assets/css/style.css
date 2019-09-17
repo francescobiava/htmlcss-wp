@@ -40,9 +40,26 @@ header {
     bottom: 5%;
 }
 
-.menu {
+.navbar-box {
     height: 50px;
-    background-color: #00FFFF;
+    background-color: #666;
+}
+
+#menu {
+    list-style-type: none;
+}
+
+.navbar {
+    display: inline-block;
+    line-height: 50px;
+    padding: 0 2%;
+}
+
+.navbar a {
+    font-family: Arial;
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
 }
 
 /* struttura main */
