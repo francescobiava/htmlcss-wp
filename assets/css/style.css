@@ -51,7 +51,7 @@ main {
     width: auto;
 }
 
- main:after {
+main:after {
     content: "";
     display: table;
     clear: both;
@@ -67,10 +67,24 @@ main {
 
 .center {
     width: 48%;
-    height: 250px;
     margin: 0 1%;
-    background-color: #FF0000;
+    background-color: #fff;
     float: left;
+    padding: 10px;
+}
+
+.centertitle {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: 500;
+    color: #666;
+    text-shadow: 1px 1px #666;
+    margin-bottom: 15px;
+}
+
+.centertext {
+    font-size: 16px;
+    line-height: 25px;
 }
 
 .right {
