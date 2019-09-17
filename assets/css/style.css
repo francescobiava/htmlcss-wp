@@ -133,10 +133,20 @@ main:after {
 /* struttura footer */
 footer {
     margin: 10px 20%;
-    width: auto;
 }
 
 .bottom {
     height: 100px;
-    background-color: #FFFF00;
+    background-color: #fff;
+}
+
+.copyright {
+    height: 40px;
+    padding: 10px;
+    font-family: Arial;
+    font-size: 14px;
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.4);
+    border-bottom: 1px solid #000;
+    text-align: center;
 }
