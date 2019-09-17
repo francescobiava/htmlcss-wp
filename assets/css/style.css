@@ -65,6 +65,11 @@ main:after {
     padding: 10px;
 }
 
+.fa-rss-square {
+    font-size: 25px;
+    color: #ffa500;
+}
+
 .feedtitle {
     font-family: Arial;
     font-size: 20px;
@@ -72,6 +77,7 @@ main:after {
     color: #666;
     text-shadow: 1px 1px;
     margin-bottom: 20px;
+    display: inline-block;
 }
 
 .feed {
