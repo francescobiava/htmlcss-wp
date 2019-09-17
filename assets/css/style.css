@@ -59,10 +59,27 @@ main:after {
 
 .left {
     width: 24%;
-    height: 500px;
     margin-right: 1%;
-    background-color: #00FF00;
+    background-color: #fff;
     float: left;
+    padding: 10px;
+}
+
+.feedtitle {
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 500;
+    color: #666;
+    text-shadow: 1px 1px;
+    margin-bottom: 20px;
+}
+
+.feed {
+    font-size: 16px;
+    color: #00b000;
+    text-decoration: none;
+    margin-bottom: 10px;
+    display: block;
 }
 
 .center {
