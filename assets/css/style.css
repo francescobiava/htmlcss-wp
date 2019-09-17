@@ -80,6 +80,7 @@ main:after {
     background-color: #fff;
     float: left;
     padding: 10px;
+    border-radius: 10px;
 }
 
 .fa-rss-square {
@@ -111,6 +112,7 @@ main:after {
     background-color: #fff;
     float: left;
     padding: 10px;
+    border-radius: 10px;
 }
 
 .centertitle {
@@ -137,6 +139,7 @@ main:after {
     background-color: #fff;
     margin-bottom: 10px;
     padding: 10px;
+    border-radius: 10px;
 }
 
 .widgettitle {
@@ -162,6 +165,7 @@ footer {
     height: 100px;
     background-color: #fff;
     position: relative;
+    border-radius: 10px;
 }
 
 .copyright {
